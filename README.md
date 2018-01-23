@@ -8,4 +8,4 @@ git remote add origin https://github.com/zswingle/GoogleMaps-Project.git
 git push -u origin master
 
 
-The Addition I made was I made the map look bigger and I added a marker in the map. 
+The Addition I made was I made the map look bigger, changed the zoom on the map, and I added a marker in the map. 
